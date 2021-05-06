@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepanshu01399
 - 👀 I’m interested in making Android related app
-- 🌱 I’m currently learning ...android ,flutter and also javascript.
+- 🌱 I’m currently learning ...android ,React-native , flutter and also javascript.
 - 💞️ I’m looking to collaborate on ...real life based programs which solve our real life problems
 - 📫 How to reach me ...:) deepanshutyagi1399@gmail.com
 
